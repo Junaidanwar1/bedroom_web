@@ -1,0 +1,65 @@
+body{
+    background-image: url(./images/comfortable-modern-bedroom-with-elegant-decoration-lighting-generative-ai.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.logo img{
+    float: left;
+    width: 90px;
+    border-radius: 50%;
+    margin-left: 44px;
+    margin-top: 23px;
+}
+.navbar{
+    font-size: large;
+    padding: 20px;
+    border-radius: 5px;
+    padding-left:600PX ;
+  }
+  .navbar ul li{
+   list-style-type: none;
+   text-align: center;
+   float: left;
+   margin: 10px;
+   display: block;
+   padding: 5px;
+  } 
+  .navbar ul li a{
+    
+    
+    text-decoration: none;
+    color: azure;
+    
+  }
+
+.text{
+    text-align: center;
+    margin-top: 210px;
+    line-height: 14P5;
+    color: white;
+}
+#watch{
+    border-radius: 50px;
+    height: 43px;
+    padding: 15px;
+    color: white;
+    background-color: aqua;
+    background: none;
+    margin: 33px;
+    margin-bottom: 95px;
+}
+#watch:hover{
+    background-color: aqua
+}
+#Subscribe{
+    border-radius: 50px;
+    height: 43px;
+    padding: 15px;
+    color: white;
+    background-color: aqua;
+    background: none;
+    margin: 33px;
+}
+#Subscribe:hover{
+    background-color: aqua
+}
